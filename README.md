@@ -1,6 +1,6 @@
 # pokedex2_0
 
-## Project setup
+## Projeto pokemon
 ```
 npm install
 ```
